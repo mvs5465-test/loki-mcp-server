@@ -4,5 +4,5 @@ helm:
     value: ghcr.io/mvs5465-test/loki-mcp-server
     forcestring: true
   - name: image.tag
-    value: main@sha256:3ec1bfcb8974c4179a92dafcd9846b94a210b700412335d99dd880297cad6eb2
+    value: main@sha256:7f48fc7daf30cbc7888b91d5d830af68cd673b3bc7471b694254ab1dd24c89be
     forcestring: true
