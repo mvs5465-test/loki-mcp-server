@@ -1,0 +1,8 @@
+helm:
+  parameters:
+  - name: image.repository
+    value: ghcr.io/mvs5465-test/loki-mcp-server
+    forcestring: true
+  - name: image.tag
+    value: main@sha256:32ae8c6d8e2dc2d9e0ed066eed2d0df6e9d84d94f4da0390069be82bd6087231
+    forcestring: true
